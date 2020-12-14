@@ -1,4 +1,4 @@
-# ***UFOs, Is the truth out there?***
+# UFOs
 ## Overview of Project
 The purpose of this project was to create a website using Javascript and interactive filters allowing the user to search UFO sighting data by any or all of the following criteria:
 - Date
