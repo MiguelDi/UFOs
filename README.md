@@ -8,7 +8,7 @@ The purpose of this project was to create a website using Javascript and interac
 - Shape
 
 ### Resources
-- Data Source: data.js [GitHub_Pages](https://github.com/stephenanayashilliard/UFO/blob/main/static/js/data.js)
+- Data Source: data.js [GitHub_Pages](https://github.com/MiguelDi/UFOs/blob/main/static/js/data.js)
 - Software:
  - Python 3.6.1
  - Javascript
@@ -18,10 +18,10 @@ The purpose of this project was to create a website using Javascript and interac
 The final product was a simple, easy to use website.  The website before any input on the part of the user is shown in illustration #1. To utilize the website to search for UFO sightings, is extremely simple.  The user need only type their input in any of the filters and any ufo sightings that fit the input criteria will be outputted.   In illustration #2 the input for state was changed to fl.
 
 #### Illustration #1
-![before_date](https://github.com/stephenanayashilliard/UFO/blob/main/Resources/before_input.png)
+ ![](Resources/before_input.png)
 
 #### Illustration #2
-![with_input](https://github.com/stephenanayashilliard/UFO/blob/main/Resources/with_input.png)
+![](Resources/with_input.png)
 
 
 ## Summary
